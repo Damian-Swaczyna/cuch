@@ -1,0 +1,6 @@
+# ninja log v5
+2	289	7376062163161149	build.ninja	ddb8b9a34f7e28e8
+4	286	7376062163161149	build.ninja	ddb8b9a34f7e28e8
+7	491	7376062603061158	CMakeFiles/untitled6.dir/text.cpp.obj	282ff2c30ed3405b
+2	495	7376062603091173	CMakeFiles/untitled6.dir/main.cpp.obj	c5364fc0c89ab691
+495	663	7376062604739884	untitled6.exe	915a7e1a8f4efb3b
